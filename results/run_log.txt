@@ -1,0 +1,27 @@
+running 2170 simulations on 16 processes ...
+  100/2170
+  200/2170
+  300/2170
+  400/2170
+  500/2170
+  600/2170
+  700/2170
+  800/2170
+  900/2170
+  1000/2170
+  1100/2170
+  1200/2170
+  1300/2170
+  1400/2170
+  1500/2170
+  1600/2170
+  1700/2170
+  1800/2170
+  1900/2170
+  2000/2170
+  2100/2170
+  2170/2170
+/home/paradox/Desktop/college/computer-networks/project/csmasim/analysis.py:281: RuntimeWarning: Mean of empty slice
+  t = z["beb/t"][0]
+simulations finished in 335 s
+wrote /home/paradox/Desktop/college/computer-networks/project/results/summary.csv, /home/paradox/Desktop/college/computer-networks/project/results/results_tables.md and 13 figures in /home/paradox/Desktop/college/computer-networks/project/figures/

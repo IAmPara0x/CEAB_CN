@@ -1,0 +1,15 @@
+{
+ "fig_validation.png": "Simulator validation: BEB saturation throughput and collision probability versus the Bianchi (2000) analytical model.",
+ "fig_throughput_vs_n.png": "Saturation throughput vs number of stations for all nine backoff strategies (saturated traffic, mean over runs; shaded band = \u00b11 SD for highlighted schemes).",
+ "fig_collision_vs_n.png": "Collision probability vs number of stations for all nine backoff strategies (saturated traffic, mean over runs; shaded band = \u00b11 SD for highlighted schemes).",
+ "fig_p99_vs_n.png": "Tail (99th percentile) access delay for all nine backoff strategies (saturated traffic, mean over runs; shaded band = \u00b11 SD for highlighted schemes).",
+ "fig_fairness_vs_n.png": "Short-term fairness (Jain index, 100 ms windows) for all nine backoff strategies (saturated traffic, mean over runs; shaded band = \u00b11 SD for highlighted schemes).",
+ "fig_s123_throughput.png": "Throughput (Mb/s) for every strategy in scenarios S1\u2013S3 (bars = mean, whiskers = \u00b11 SD over runs).",
+ "fig_s123_p99.png": "99th-pct access delay (ms) for every strategy in scenarios S1\u2013S3 (bars = mean, whiskers = \u00b11 SD over runs).",
+ "fig_load.png": "Unsaturated (Poisson) traffic with 30 stations: carried throughput and end-to-end delay as the offered load grows past saturation.",
+ "fig_churn.png": "Churn scenario: throughput over time (top), CEAB's contender estimate against the true number of active stations (middle) and the mean contention window (bottom).",
+ "fig_fer_payload.png": "Sensitivity of throughput to channel frame errors (left) and to payload size (right), 20 saturated stations.",
+ "fig_rts.png": "Throughput with the RTS/CTS handshake, where a collision costs only an RTS frame (mean \u00b1 SD; note the zoomed y-axis).",
+ "fig_coexist.png": "Coexistence: throughput obtained by 10 legacy BEB stations and by 10 stations running each scheme on the same channel.",
+ "fig_ablation.png": "Ablation of CEAB's design parameters: tail delay versus the escalation cap K and the estimation window M."
+}
